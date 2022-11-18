@@ -1,0 +1,10 @@
+its kind of program that brings data or send data only when if any event occures 
+
+basically it communicate between server and and application like api but api periodically looking for the data in server where 
+
+
+
+sendgrid api email service 
+
+
+ngrock http port 
